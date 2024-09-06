@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 100%;"> 
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -78,3 +78,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandusiriyala7&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 🐍 Snake Animation Contribution
+![Snake Animation](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/main/assets/snake.gif)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+Thank+you+👋,+For+Visiting+ChanduSiriyala!+Profile"/>
+</h1>
+
