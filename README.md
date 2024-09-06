@@ -78,11 +78,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandusiriyala7&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 🐍 Contribution Animation
-![Snake Animation](https://raw.githubusercontent.com/chandusiriyala7/chandusiriyala7/output/github-contribution-grid-snake.svg)
-
-
+ 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hey+Thank+you+👋,+For+Visiting+ChanduSiriyala!+Profile"/>
 </h1>
