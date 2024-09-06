@@ -1,39 +1,5 @@
-<h1 align="center" id="animated-heading"></h1>
+<h1 align="center" id="animated-heading">Hey Everyone 👋, I'm ChanduSiriyala</h1>
 
-<script>
-  const text = "Hey Everyone 👋, I'm ChanduSiriyala";
-  const heading = document.getElementById('animated-heading');
-  
-  text.split("").forEach((char, index) => {
-    const span = document.createElement('span');
-    span.textContent = char;
-    span.style.animation = `fade-in 1s ease ${index / 10}s forwards`;
-    span.style.display = "inline-block";
-    heading.appendChild(span);
-  });
-</script>
-
-<style>
-  #animated-heading span {
-    opacity: 0;
-    color: #000;
-    font-size: 2rem;
-  }
-
-  @keyframes fade-in {
-    0% {
-      opacity: 0;
-      color: transparent;
-    }
-    50% {
-      color:
-    }
-    100% {
-      opacity: 1;
-      color: #3498db;  
-    }
-  }
-</style>
 <h3 align="center">A passionate Full Stack Developer  From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@Chandusiriyala</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
