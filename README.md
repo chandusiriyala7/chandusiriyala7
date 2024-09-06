@@ -1,4 +1,39 @@
-<h1 align="center">Hey Everyone 👋, I'm ChanduSiriyala</h1>
+<h1 align="center" id="animated-heading"></h1>
+
+<script>
+  const text = "Hey Everyone 👋, I'm ChanduSiriyala";
+  const heading = document.getElementById('animated-heading');
+  
+  text.split("").forEach((char, index) => {
+    const span = document.createElement('span');
+    span.textContent = char;
+    span.style.animation = `fade-in 1s ease ${index / 10}s forwards`;
+    span.style.display = "inline-block";
+    heading.appendChild(span);
+  });
+</script>
+
+<style>
+  #animated-heading span {
+    opacity: 0;
+    color: #000;
+    font-size: 2rem;
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+      color: transparent;
+    }
+    50% {
+      color:
+    }
+    100% {
+      opacity: 1;
+      color: #3498db;  
+    }
+  }
+</style>
 <h3 align="center">A passionate Full Stack Developer  From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@Chandusiriyala</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -20,50 +55,51 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<p align="left" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 100%;"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
-  <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://socket.io/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="flex: 1 1 auto; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandusiriyala7&show_icons=true&locale=en&layout=compact" alt="chandusiriyala7" /></p>
