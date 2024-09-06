@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone+👋,+I'm+ChanduSiriyala!&colors=ff6347,4682b4,32cd32,ff4500,00bfff"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone+👋,+I'm+ChanduSiriyala!"/>
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer  From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@Chandusiriyala</h3>
