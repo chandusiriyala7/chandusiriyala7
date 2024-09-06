@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer  From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@Chandusiriyala</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandusiriyala7&label=Profile%20views&color=0e75b6&style=flat" alt="chandusiriyala7" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandusiriyala7](https://github.com/chandusiriyala7)
 
@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="[https://cdn.worldvectorlogo.com/logos/nextjs-3.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> 
@@ -66,11 +66,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandusiriyala7&show_icons=true&locale=en&layout=compact" alt="chandusiriyala7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandusiriyala7&show_icons=true&locale=en" alt="chandusiriyala7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandusiriyala7&" alt="chandusiriyala7" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=chandusiriyala7&limit=5&theme=flat&combine_all_yearly_contributions=true)
