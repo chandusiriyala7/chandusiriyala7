@@ -2,7 +2,7 @@
   Hey Everyone👋, I'm ChanduSiriyala :)
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer  From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@Chandusiriyala</h3>
+<h3 align="center">A passionate Full MERN Stack Developer  From India. I work in Corporate IT Sector.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandusiriyala7&label=Profile%20views&color=0e75b6&style=flat" alt="chandusiriyala7" /> </p>
