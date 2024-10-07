@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandusiriyala7](https://github.com/chandusiriyala7)
 
-- 💬 Ask me about **MERN STACK **
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me 
 
